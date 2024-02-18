@@ -1,0 +1,1 @@
+This folder is where the image from the webcam is saved for verification
