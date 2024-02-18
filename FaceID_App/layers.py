@@ -1,6 +1,6 @@
 # Custom L1 Distance layer module
 # WHY DO WE NEED THIS : Its needed to load the custom model
-# Import deorflow as tf
+
 
 import tensorflow as tf
 from tensorflow.keras.layers import Layer
